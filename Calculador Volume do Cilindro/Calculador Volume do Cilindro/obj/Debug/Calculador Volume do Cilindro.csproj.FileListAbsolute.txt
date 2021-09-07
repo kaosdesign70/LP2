@@ -1,0 +1,10 @@
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\bin\Debug\Calculador Volume do Cilindro.exe.config
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\bin\Debug\Calculador Volume do Cilindro.exe
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\bin\Debug\Calculador Volume do Cilindro.pdb
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador Volume do Cilindro.csproj.AssemblyReference.cache
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador_Volume_do_Cilindro.Form1.resources
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador_Volume_do_Cilindro.Properties.Resources.resources
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador Volume do Cilindro.csproj.GenerateResource.cache
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador Volume do Cilindro.csproj.CoreCompileInputs.cache
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador Volume do Cilindro.exe
+C:\LP2\Calculador Volume do Cilindro\Calculador Volume do Cilindro\obj\Debug\Calculador Volume do Cilindro.pdb
