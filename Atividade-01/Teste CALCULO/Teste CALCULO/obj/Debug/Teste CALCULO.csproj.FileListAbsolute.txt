@@ -1,0 +1,10 @@
+C:\LP2\Teste CALCULO\Teste CALCULO\bin\Debug\Teste CALCULO.exe.config
+C:\LP2\Teste CALCULO\Teste CALCULO\bin\Debug\Teste CALCULO.exe
+C:\LP2\Teste CALCULO\Teste CALCULO\bin\Debug\Teste CALCULO.pdb
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste CALCULO.csproj.AssemblyReference.cache
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste_CALCULO.Form1.resources
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste_CALCULO.Properties.Resources.resources
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste CALCULO.csproj.GenerateResource.cache
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste CALCULO.csproj.CoreCompileInputs.cache
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste CALCULO.exe
+C:\LP2\Teste CALCULO\Teste CALCULO\obj\Debug\Teste CALCULO.pdb
